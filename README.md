@@ -1,7 +1,7 @@
 - Hi, I’m Rodiat Olagunju
 - I’m a data analyst who would love to showcase her skills and share projects.
-- I’m currently learning data story telling
-- I’m looking to collaborate on data analysis projects 
+- Currently learning data story telling
+- Looking to collaborate on data analysis projects 
 
 
 
